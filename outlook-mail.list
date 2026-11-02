@@ -1,6 +1,8 @@
 # Outlook.com mailbox services only
 # Web/API and mailbox access
 DOMAIN,outlook.live.com
+DOMAIN,outlook.com
+DOMAIN,www.outlook.com
 DOMAIN,outlook.office.com
 DOMAIN,outlook.office365.com
 DOMAIN,autodiscover.outlook.com
@@ -9,7 +11,8 @@ DOMAIN,autodiscover.outlook.com
 DOMAIN,smtp-mail.outlook.com
 DOMAIN,pop-mail.outlook.com
 
-# Personal Microsoft account authentication for Outlook.com
+# Personal Microsoft account authentication and account portal
 DOMAIN,login.live.com
 DOMAIN,account.live.com
+DOMAIN,account.microsoft.com
 DOMAIN,login.microsoftonline.com
