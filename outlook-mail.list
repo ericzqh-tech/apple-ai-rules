@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,hotmail.com
 DOMAIN,login.microsoftonline.com
 DOMAIN,login.live.com
+DOMAIN,login.microsoft.com
 DOMAIN,account.live.com
 DOMAIN,outlook.office365.com
 DOMAIN,outlook.office.com
