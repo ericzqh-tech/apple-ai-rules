@@ -1,14 +1,12 @@
-# Outlook.com email / authentication
-DOMAIN-SUFFIX,outlook.com
-DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,hotmail.com
-DOMAIN,login.microsoftonline.com
-DOMAIN,login.live.com
-DOMAIN,login.microsoft.com
-DOMAIN,account.live.com
-DOMAIN,outlook.office365.com
+# Outlook.com email and personal Microsoft account authentication
+# Email access
+DOMAIN,outlook.live.com
 DOMAIN,outlook.office.com
+DOMAIN,outlook.office365.com
+DOMAIN,smtp-mail.outlook.com
+DOMAIN,pop-mail.outlook.com
 DOMAIN,autodiscover.outlook.com
-DOMAIN,account.microsoft.com
-DOMAIN,acctcdn.msauth.net
-DOMAIN,acctcdn.msftauth.net
+
+# Personal Microsoft account sign-in
+DOMAIN,login.live.com
+DOMAIN,account.live.com
