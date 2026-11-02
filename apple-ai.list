@@ -10,14 +10,3 @@ DOMAIN,gateway.icloud.com
 DOMAIN,mask-api.icloud.com
 DOMAIN,mask.icloud.com
 DOMAIN,mask-h2.icloud.com
-
-# Outlook.com email / authentication
-DOMAIN-SUFFIX,outlook.com
-DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,hotmail.com
-DOMAIN,login.microsoftonline.com
-DOMAIN,login.live.com
-DOMAIN,account.live.com
-DOMAIN,outlook.office365.com
-DOMAIN,outlook.office.com
-DOMAIN,autodiscover.outlook.com
