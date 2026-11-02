@@ -12,3 +12,4 @@ DOMAIN,pop-mail.outlook.com
 # Personal Microsoft account authentication for Outlook.com
 DOMAIN,login.live.com
 DOMAIN,account.live.com
+DOMAIN,login.microsoftonline.com
