@@ -1,12 +1,14 @@
-# Outlook.com email and personal Microsoft account authentication
-# Email access
+# Outlook.com mailbox services only
+# Web/API and mailbox access
 DOMAIN,outlook.live.com
 DOMAIN,outlook.office.com
 DOMAIN,outlook.office365.com
-DOMAIN,smtp-mail.outlook.com
-DOMAIN,pop-mail.outlook.com
 DOMAIN,autodiscover.outlook.com
 
-# Personal Microsoft account sign-in
+# Outlook.com mail protocols
+DOMAIN,smtp-mail.outlook.com
+DOMAIN,pop-mail.outlook.com
+
+# Personal Microsoft account authentication for Outlook.com
 DOMAIN,login.live.com
 DOMAIN,account.live.com
